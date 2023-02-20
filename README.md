@@ -19,8 +19,7 @@ Project :
 
 
 
-<h3 align="left">Quick peek </h3>
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 <p align="left">
 </p>
 
