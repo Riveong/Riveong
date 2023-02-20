@@ -28,7 +28,7 @@
 rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
 <br clear="both">
-<b>I HAVE 0 SELF ESTEEM</b>
+<b>I HAVE 0 SELF ESTEEM</b><br>
 <div align="left">
   <img height="200" src="https://i.imgflip.com/7bs2j8.jpg"  />
 </div>
