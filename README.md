@@ -1,4 +1,6 @@
 <h1>Whats good? 👋, My name is Ong Riverine</h1>
+Uploading all of my past projects... ███░░░░░░░ 30%
+
 <h3>Design / Styling enthusiasm</h3>
 <p>Semester 6 college student</p>
 <p>Bangkit 2023 cloud computing cohort student</p>
