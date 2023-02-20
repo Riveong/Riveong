@@ -1,9 +1,26 @@
-<h1 align="center">Whats good? 👋, My name is Ong Riverine</h1>
-<h3 align="center">Design / Styling enthusiasm, #1 CSS ENTHUSIANSM</h3>
+<h1>Whats good? 👋, My name is Ong Riverine</h1>
+<h3>Design / Styling enthusiasm</h3>
+<p>Semester 6 college student</p>
+<p>Bangkit 2023 cloud computing cohort student</p>
+<p></p>
 
-- 🌱 currently learning **Frameworks**
+🌱 currently learning **Frameworks, Cloud Computing**<br>
+Interested in :
+- Website dev<br>
+- UI/UX<br>
+- Wordpress dev / CMS dev
 
-<h3 align="left">Connect with me:</h3>
+Project :
+- https://adivasa.com<br>
+- https://istanakeramik.com<br>
+- https://suryamediaadvertising.com<br>
+
+
+
+
+
+<h3 align="left">Quick peek </h3>
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <p align="left">
 </p>
 
