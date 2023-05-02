@@ -34,4 +34,8 @@ rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/m
 <div align="left">
   <img height="200" src="https://i.imgflip.com/7bs2j8.jpg"  />
 </div>
-<H1> HOW TO ADD SPACES TO GITHUB BIO???????????????
+<div>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riveong&theme=radical&hide_border=true" height="192px"  width="400px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riveong&layout=compact&theme=radical&hide_border=true" height="192px"  width="400px">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=riveong&count_private=true&theme=radical&hide_border=true&hide=stars" height="192px"  width="400px"/>
+  </div>
