@@ -1,6 +1,6 @@
 # Log 29/5/2023 - 12.28 :</bold>
 <center> yahoo~!   
-How are ya? I hope you guys doing well, me? Nah I don't know how to feel. My feelings are mixed up. sad, love, hate, and mad!!! But it's ok, someone told me that there are lot of people who loves me! 
+How are ya? I hope you guys doing well, me? Nah I don't know how to feel. My feelings are mixed up. sad, love, hate, and mad!!! But it's ok, someone told me that there are lotta people who loves me! 
 
 ![Pain](https://media.tenor.com/yM1cCQGkVTgAAAAM/k-on-yui-hirasawa.gif)
 
