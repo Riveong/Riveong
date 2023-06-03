@@ -1,3 +1,6 @@
+# Welcome
+![enter image description here](https://cdn.discordapp.com/attachments/1023598916857499680/1114536348712435762/ezgif.com-add-text.gif)
+
 # Log 29/5/2023 - 12.28 :</bold>
 <center> yahoo~!   
 How are ya? I hope you guys doing well, me? Nah I don't know how to feel. My feelings are mixed up. sad, love, hate, and mad!!! But it's ok, someone told me that there are lotta people who loves me! 
