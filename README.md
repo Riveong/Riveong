@@ -1,6 +1,8 @@
 # HIYA!! welcome to my coping page
 ### my name is Riverine Ong  
 ### Just a stupid lil bro that doesn't know what is he doing.  
+I need my own private class, so I can be the setter getter (oop rizz)
+
 ![enter image description here](https://cdn.discordapp.com/attachments/1023598916857499680/1114536348712435762/ezgif.com-add-text.gif)
 
 # Log 29/5/2023 - 12.28 :</bold>
