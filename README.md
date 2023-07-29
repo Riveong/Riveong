@@ -1,5 +1,5 @@
 # HIYA!! welcome to my coping page
-### my name is Riverine Ong  
+### my name is Gabriel Ong  
 ### Just a stupid lil bro that doesn't know what is he doing.  
 I need my own private class, so I can be the setter getter (oop rizz)
 
