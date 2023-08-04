@@ -10,3 +10,4 @@
 </div>
 <p align="center">I am a lover of tech, tea and all its wonders. I marvel at the power of cloud computing and the infinite possibilities it offers. I delight in learning new things and expanding my horizons. I cherish writing and art as forms of expression and creativity.</p>
 
+<img src="https://user-images.githubusercontent.com/53504975/258417164-ca62fadf-2fc0-42c8-bb98-ac0c706f8000.png">
