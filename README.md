@@ -1,3 +1,4 @@
+<htmlk>
 <h1 align="center">Hi there comrades! <a href="https://emoji.gg/emoji/1545-pika-hi"><img src="https://cdn3.emoji.gg/emojis/1545-pika-hi.gif" width="32px" height="32px" alt="Pika_Hi"></a></h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ong-gabriel-riverine-susanto-8994b2266">
@@ -11,3 +12,10 @@
 <p align="center">I am a lover of tech, tea and all its wonders. I marvel at the power of cloud computing and the infinite possibilities it offers. I delight in learning new things and expanding my horizons. I cherish writing and art as forms of expression and creativity.</p>
 
 <img src="https://user-images.githubusercontent.com/53504975/258417164-ca62fadf-2fc0-42c8-bb98-ac0c706f8000.png">
+
+</html>
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Riveong&theme=highcontrast&hide_border=true&border_radius=20&card_width=200&background=45%2C028CEB%2C015276&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
