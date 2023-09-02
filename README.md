@@ -11,11 +11,15 @@
 </div>
 <p align="center">I am a lover of tech, tea and all its wonders. I marvel at the power of cloud computing and the infinite possibilities it offers. I delight in learning new things and expanding my horizons. I cherish writing and art as forms of expression and creativity.</p>
 
-<img src="https://user-images.githubusercontent.com/53504975/258417164-ca62fadf-2fc0-42c8-bb98-ac0c706f8000.png">
-
-</html>
+<img src="https://user-images.githubusercontent.com/53504975/258417164-ca62fadf-2fc0-42c8-bb98-ac0c706f8000.png"></html>
 
 
 
+<div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Riveong&theme=highcontrast&hide_border=true&border_radius=20&card_width=200&background=45%2C028CEB%2C015276&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Riveong&theme=dark&hide_border=true&border_radius=5&card_width=500&ring=EBEBEB&background=45%2C005CEB%2CEB2CBE&currStreakNum=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&currStreakLabel=FFFFFF&fire=FFFFFF)](https://git.io/streak-stats)
+
+</div>
+
+
+
