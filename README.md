@@ -9,7 +9,7 @@
   </a>
 
 </div>
-<p align="center">I am a lover of tech, tea and all its wonders. I marvel at the power of cloud computing and the infinite possibilities it offers. I delight in learning new things and expanding my horizons. I cherish writing and art as forms of expression and creativity.</p>
+<p align="center">I am a lover of tech, tea and all its wonders. I marvel at the power of Backend Development and the infinite possibilities it offers. I delight in learning new things and expanding my horizons. I cherish writing and art as forms of expression and creativity.</p>
 
 <img src="https://media.discordapp.net/attachments/1023598916857499680/1173582856388362240/light_mode.png?ex=65647b35&is=65520635&hm=04544ddd46661cc09ae25a821f526f5c6cee7dd9acb92c830c2828a2d1830b02&=&width=1202&height=676"></html>
 
