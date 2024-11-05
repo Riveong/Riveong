@@ -9,11 +9,11 @@
   </a>
 
 </div>
-<p align="center">I am a lover of tech, tea and all its wonders. I marvel at the power of Backend Development and the infinite possibilities it offers. I delight in learning new things and expanding my horizons. I cherish writing and art as forms of expression and creativity.</p>
+<p align="center">I am a lover of tech, tea and all its wonders. I marvel at the power of Software Development and the infinite possibilities it offers. I delight in learning new things and expanding my horizons. I cherish writing and art as forms of expression and creativity.</p>
 <p align="center">█████████████████         ███████            ████████████████   ██████████████<br><br>████████████████████████████████████████████████████<br>█████████████████████████████<br><br>████████████</p>
 
 
 
-<img src="https://res.cloudinary.com/ddwawposi/image/upload/f_auto,q_auto/xc2s9huwcrhip7thbe8x"></html>
+<img src="https://i.ibb.co.com/98ZNwtV/RIVE-ONG.png"></html>
 <p align="center">█████████████████████████████████████████████████████████████<br><br>████████████████████████████████████████████████████<br>█████████████████████████████<br><br>███████████<br>█</p>
 </html>
