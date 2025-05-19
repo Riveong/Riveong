@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/ong-gabriel-riverine-susanto-8994b2266">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC5s3FdG5mlgcQ9XofSF8p6w">
+  <a href="https://www.youtube.com/@Shoulmx">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 
