@@ -17,4 +17,4 @@
 <img src="./images/riveong.png">
 
 </html>
-<p align="center">█████████████████████████████████████████████████████████████<br><br>████████████████████████████████████████████████████<br>█████████████████████████████<br><br>███████████<br>█</p>
+<p align="center">█████████████████████████████████████████████████████████████<br>Languages/Frameworks: Javascript/Typescript, Kotlin, Java, React, Svelte, Python, RestApi(express, hono, next, fastapi, etc)<br>████████████████████████████████████████████████████<br>█████████████████████████████<br>Visit my <a href="https://riveong.my.id">portfolio</a> pweeasee >~<<br>███████████<br>█</p>
